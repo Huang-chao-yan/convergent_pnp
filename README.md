@@ -5,6 +5,9 @@ This is the code of Wu Z, Huang C, Zeng T. Extrapolated Plug-and-Play Three-Oper
 [paper] https://arxiv.org/pdf/2403.01144.pdf
 
 [Prerequisites] following the training in https://github.com/samuro95/Prox-PnP
+python3.7
+torch==1.7.1 torchvision==0.8.2 
+torchmetrics==0.5.0
 
 
 You can download our pretrained checkpoint at https://drive.google.com/file/d/1fmCBl8lV8KGezIaH4SioqwJcySDUafD1/view?usp=sharing
