@@ -6,11 +6,14 @@ This is the code of Wu Z, Huang C, Zeng T. Extrapolated Plug-and-Play Three-Oper
 
 [Prerequisites] following the training in https://github.com/samuro95/Prox-PnP
 
+
 You can download our pretrained checkpoint at 
 
 Please save the trained model in the ckpts directory: /GS_denoising/ckpts/Prox-DRUNet.ckpt
 
-You can test after downloading the .ckpt file as
+You can test after downloading the .ckpt file as follows. 
+
+
 
 cd Proxpnp/PnP_restoration
 
@@ -35,6 +38,9 @@ python3 SR.py --dataset_name Set5 --PnP_algo DYSdiff --noise_level_img 12.75  --
 
 to see our DeTik results in Table 2 of the paper.
 
+
+
+
 for more blur kernel results, please check lines 23 and 85 in deblur.py
 
 dataset_name is your test data
@@ -46,6 +52,8 @@ noise_level_img is the noise you add
 noise_level_img_ini is for the initial noise input
 
 alp0 is the extrapolated parameter of the algorithm
+
+
 
 by chaoyan
 20 March, 2024
