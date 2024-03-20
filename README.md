@@ -8,7 +8,7 @@ This is the code of Wu Z, Huang C, Zeng T. Extrapolated Plug-and-Play Three-Oper
 
 python3.7
 
-torch==1.7.1 torchvision==0.8.2 
+conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=11.0 -c pytorch
 
 torchmetrics==0.5.0
 
