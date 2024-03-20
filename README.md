@@ -7,7 +7,7 @@ This is the code of Wu Z, Huang C, Zeng T. Extrapolated Plug-and-Play Three-Oper
 [Prerequisites] following the training in https://github.com/samuro95/Prox-PnP
 
 
-You can download our pretrained checkpoint at 
+You can download our pretrained checkpoint at https://drive.google.com/file/d/1fmCBl8lV8KGezIaH4SioqwJcySDUafD1/view?usp=sharing
 
 Please save the trained model in the ckpts directory: /GS_denoising/ckpts/Prox-DRUNet.ckpt
 
