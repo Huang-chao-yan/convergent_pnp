@@ -15,7 +15,7 @@ You can test after downloading the .ckpt file as follows.
 
 
 
-cd Proxpnp/PnP_restoration
+cd PnP_restoration
 
 For deblurring with different noise levels (2.55, 7.65, 12.75) under blur kernel 1 in the paper
 
