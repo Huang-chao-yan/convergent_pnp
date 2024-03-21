@@ -6,11 +6,6 @@ This is the code of Wu Z, Huang C, Zeng T. Extrapolated Plug-and-Play Three-Oper
 
 [Prerequisites] following the training in https://github.com/samuro95/Prox-PnP
 
-python3.7
-
-conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=10.2 -c pytorch
-
-torchmetrics==0.5.0
 
 
 You can download our pretrained checkpoint at https://drive.google.com/file/d/1fmCBl8lV8KGezIaH4SioqwJcySDUafD1/view?usp=sharing
